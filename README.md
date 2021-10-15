@@ -1,7 +1,5 @@
 Task 4: Working with storage
 
-alt text
-
 The task is to create Database of cats/dogs/auto(anything you want)
 
     You should show all items form your database in the recycler view on the main screen
